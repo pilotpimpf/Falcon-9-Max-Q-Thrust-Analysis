@@ -153,8 +153,8 @@ plt_data(time, (mass, true_mass), description)
 
 ## Calculating real thrust
 Now we have the true mass for every point in time and are able to calculate the actual thrust by using this equation: 
-$$ F_T = F_R + F_G  $$
-$$ F_T = m * a_R + m * g $$
+$$F_T = F_R + F_G$$
+$$F_T = m * a_R + m * g$$
 
 
 ```python
